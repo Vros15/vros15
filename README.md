@@ -40,10 +40,6 @@ Tech: Java, OOP, Game Loop
 
 Repo: https://github.com/Vros15/Shaq-Game
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Vros15&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vros15&layout=compact&theme=tokyonight)
 
 📫 Let’s Connect
 
