@@ -1,56 +1,72 @@
 ![Banner](banner.png)
-I enjoy building clean, scalable applications, interactive experiences, and tools that solve practical problems.
 
-🌐 Portfolio: https://victor-portfolio-nu-two.vercel.app
+Software Engineer and U.S. Navy veteran with an active Secret Clearance and 10+ years of technical and operational experience. I specialize in full-stack development — building and deploying production-ready web applications with a focus on frontend development, RESTful API design, and clean architecture.
 
-📍 Location: United States
-🔐 Clearance: Active Secret
+🌐 Portfolio: https://www.roscreations.com
+📍 Tampa, FL &nbsp;|&nbsp; 🔐 Active Secret Clearance &nbsp;|&nbsp; Available remote, hybrid, or on-site
+
+---
 
 ## 🧠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,java,python,aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,python,fastapi,java,mongodb,mysql,aws,docker,git,vite" />
 </p>
 
+---
 
-🚀 Featured Projects
-🔐 Password Strength Analyzer
+## 🚀 Featured Projects
 
-A live security tool that evaluates password strength using entropy analysis and rule-based scoring.
+### 🌐 RosCreations – Personal Portfolio Website
+React, JavaScript, HTML/CSS, Vite, EmailJS, GitHub, Vercel
 
-Tech: Python, FastAPI, REST, CORS
+Designed and built a responsive, production-ready portfolio showcasing software projects and professional background. Features animated UI components, interactive project cards, and a timeline-based experience section. Integrated EmailJS for contact form handling and deployed via GitHub CI/CD.
 
-Repo: https://github.com/Vros15/password-strength-analyzer-
+- 🔗 Live: https://www.roscreations.com
+- Repo: https://github.com/Vros15
 
-Live API Docs: https://password-strength-analyzer-pa5m.onrender.com/docs
+---
 
-🎮 Tic-Tac-Toe AI
+### 🔐 Password Strength Analyzer API
+Python, FastAPI, REST, CORS, Render
 
-An interactive React game featuring a Minimax-based AI opponent.
+Built and deployed a secure REST API that analyzes password strength using entropy-based scoring. Implemented input validation, rate limiting, and CORS configuration for safe public access. Integrated with a React frontend featuring visual strength indicators and crack-time estimation. Published interactive docs via OpenAPI (Swagger).
 
-Tech: React, Hooks, Game State Logic
+- Repo: https://github.com/Vros15/password-strength-analyzer-
+- Live API Docs: https://password-strength-analyzer-pa5m.onrender.com/docs
 
-Repo: https://github.com/Vros15/tic-tac-toe-react-ai
+---
 
-🕹️ Shaq-a-Licious (Java Game)
+### 🎮 Tic-Tac-Toe AI
+React, Node.js, JavaScript
 
-An arcade-style Java game demonstrating object-oriented design, collision detection, and custom rendering.
+Developed an interactive browser-based game featuring a toggleable AI opponent with minimax-style decision logic and adjustable difficulty levels. Demonstrates full-stack concepts and practical problem-solving.
 
-Tech: Java, OOP, Game Loop
+- Repo: https://github.com/Vros15/tic-tac-toe-react-ai
 
-Repo: https://github.com/Vros15/Shaq-Game
+---
 
+### 🕹️ Shaq-a-Licious (Java Game)
+Java, OOP, Game Logic
 
-📫 Let’s Connect
+Developed an interactive Java-based game applying core object-oriented programming concepts. Focused on class design, state management, collision detection, and user interaction handling.
 
-LinkedIn: https://www.linkedin.com/in/victor-rosario-7ba7a5231
+- Repo: https://github.com/Vros15/Shaq-Game
 
-GitHub: https://github.com/Vros15
+---
 
-Portfolio: https://victor-portfolio-nu-two.vercel.app
+## 📫 Let's Connect
 
-⭐ About This Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-rosario-7ba7a5231)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vros15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-roscreations.com-green?style=flat)](https://www.roscreations.com)
 
-This GitHub highlights selected projects, experiments, and coursework that reflect my transition into professional software development.
+---
 
-I’m always open to collaboration, learning opportunities, and meaningful engineering challenges.
+## ⭐ About This Profile
+
+This GitHub highlights selected projects, coursework, and experiments that reflect my growth as a full-stack engineer. Currently enrolled in Noble Desktop's Full Stack Software Engineering program — expanding expertise in React, Node.js, MongoDB, Django, Flask, and OpenAI API integration.
+
+B.S. Computer Science — University of Maryland Global Campus (3.718 GPA)
+
+I'm always open to collaboration, learning opportunities, and meaningful engineering challenges.
