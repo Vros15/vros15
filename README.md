@@ -1,72 +1,202 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="./assets/banner.png" alt="Victor Rosario Banner" width="100%">
+</p>
 
-Software Engineer and U.S. Navy veteran with an active Secret Clearance and 10+ years of technical and operational experience. I specialize in full-stack development — building and deploying production-ready web applications with a focus on frontend development, RESTful API design, and clean architecture.
+<div align="center">
 
-🌐 Portfolio: https://www.roscreations.com
-📍 Tampa, FL &nbsp;|&nbsp; 🔐 Active Secret Clearance &nbsp;|&nbsp; Available remote, hybrid, or on-site
+### Building secure, scalable software with modern JavaScript, AI-powered applications, and backend engineering.
+
+📍 Tampa Bay Area, Florida
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge)](https://roscreations.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victor-rosario-7ba7a5231)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Vros15)
+
+</div>
 
 ---
 
-## 🧠 Tech Stack
+# 💻 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,python,fastapi,java,mongodb,mysql,aws,docker,git,vite" />
+I'm a **Full-Stack Developer**, **Computer Science graduate**, and **U.S. Navy Veteran** passionate about building software that solves real-world problems.
+
+My focus is designing secure backend systems, developing modern web applications, and integrating AI into practical solutions. I enjoy creating software that's maintainable, scalable, and built with production-ready engineering practices.
+
+---
+
+# 🚀 What I'm Building
+
+Currently focused on building software that demonstrates modern engineering principles.
+
+- ⚛️ Full-Stack JavaScript Applications
+- 🤖 AI & LLM Integrations
+- 🔐 Secure REST APIs
+- 🏗️ Scalable Backend Architecture
+- 🚀 GitHub Actions & CI/CD
+- ☁️ Cloud-Native Development
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite" />
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java" />
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" />
+</p>
+
+## AI & APIs
+
+<div align="center">
+
+Swagger / OpenAPI • Anthropic Claude API • OpenAI API
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 AI Chatbot Backend
+
+Production Express.js backend powering the AI assistant on my portfolio website.
+
+**Highlights**
+
+- Claude API Integration
+- Prompt Injection Protection
+- Session Management
+- Rate Limiting
+- Token Budget Controls
+- Secure API Proxy
+- Input Validation
+
+🔗 **Repository**
+
+https://github.com/Vros15/personal-chatbot
+
+---
+
+## 🌐 RosCreations Portfolio
+
+A production-ready portfolio built to showcase software engineering projects and AI integrations.
+
+**Highlights**
+
+- React + Vite
+- Responsive Design
+- AI Chatbot Integration
+- Component Architecture
+- EmailJS
+- Production Deployment
+
+🌎 **Live Site**
+
+https://roscreations.com
+
+---
+
+## 🛒 MegaMart E-Commerce Backend API
+
+RESTful backend supporting products, customers, carts, and orders.
+
+**Highlights**
+
+- MVC Architecture
+- MongoDB Relationships
+- CRUD Operations
+- JWT Authentication
+- Error Handling
+- Postman Tested
+
+🔗 **Repository**
+
+https://github.com/Vros15/EComerce-Backend-API
+
+---
+
+## 🔐 Password Strength Analyzer
+
+FastAPI backend with a React frontend that analyzes password strength using entropy calculations.
+
+**Highlights**
+
+- FastAPI
+- React
+- Swagger Documentation
+- Rate Limiting
+- Input Validation
+- Password Entropy Analysis
+
+🔗 **Repository**
+
+https://github.com/Vros15/password-strength-analyzer-
+
+---
+
+# 📈 GitHub Statistics
+
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vros15&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vros15&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🌱 Currently Learning
 
-### 🌐 RosCreations – Personal Portfolio Website
-React, JavaScript, HTML/CSS, Vite, EmailJS, GitHub, Vercel
-
-Designed and built a responsive, production-ready portfolio showcasing software projects and professional background. Features animated UI components, interactive project cards, and a timeline-based experience section. Integrated EmailJS for contact form handling and deployed via GitHub CI/CD.
-
-- 🔗 Live: https://www.roscreations.com
-- Repo: https://github.com/Vros15
+- GitHub Actions & CI/CD
+- Automated Testing
+- System Design
+- AI Agents
+- Cloud Infrastructure
 
 ---
 
-### 🔐 Password Strength Analyzer API
-Python, FastAPI, REST, CORS, Render
+# 🤝 Let's Connect
 
-Built and deployed a secure REST API that analyzes password strength using entropy-based scoring. Implemented input validation, rate limiting, and CORS configuration for safe public access. Integrated with a React frontend featuring visual strength indicators and crack-time estimation. Published interactive docs via OpenAPI (Swagger).
+<p align="center">
 
-- Repo: https://github.com/Vros15/password-strength-analyzer-
-- Live API Docs: https://password-strength-analyzer-pa5m.onrender.com/docs
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge)](https://roscreations.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victor-rosario-7ba7a5231)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Vros15)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.m.rosario26@gmail.com)
 
----
-
-### 🎮 Tic-Tac-Toe AI
-React, Node.js, JavaScript
-
-Developed an interactive browser-based game featuring a toggleable AI opponent with minimax-style decision logic and adjustable difficulty levels. Demonstrates full-stack concepts and practical problem-solving.
-
-- Repo: https://github.com/Vros15/tic-tac-toe-react-ai
+</p>
 
 ---
 
-### 🕹️ Shaq-a-Licious (Java Game)
-Java, OOP, Game Logic
+<p align="center">
 
-Developed an interactive Java-based game applying core object-oriented programming concepts. Focused on class design, state management, collision detection, and user interaction handling.
+> *"Build software that solves real problems."*
 
-- Repo: https://github.com/Vros15/Shaq-Game
+⭐ Thanks for stopping by! If one of my projects interests you, I'd love to connect.
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-rosario-7ba7a5231)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vros15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-roscreations.com-green?style=flat)](https://www.roscreations.com)
-
----
-
-## ⭐ About This Profile
-
-This GitHub highlights selected projects, coursework, and experiments that reflect my growth as a full-stack engineer. Currently enrolled in Noble Desktop's Full Stack Software Engineering program — expanding expertise in React, Node.js, MongoDB, Django, Flask, and OpenAI API integration.
-
-B.S. Computer Science — University of Maryland Global Campus (3.718 GPA)
-
-I'm always open to collaboration, learning opportunities, and meaningful engineering challenges.
+</p>
