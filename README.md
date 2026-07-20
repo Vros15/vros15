@@ -150,23 +150,6 @@ FastAPI backend with a React frontend that analyzes password strength using entr
 
 https://github.com/Vros15/password-strength-analyzer-
 
----
-
-# 📈 GitHub Statistics
-
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vros15&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vros15&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
