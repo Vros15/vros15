@@ -75,6 +75,27 @@ Swagger / OpenAPI • Anthropic Claude API • OpenAI API
 
 # 🌟 Featured Projects
 
+## 🛒 Ecommerce Full Stack Application
+
+A full-stack storefront I designed and built end to end: a self-owned REST API on one side, a React client consuming it on the other — not a demo wired to someone else's public API.
+
+**Highlights**
+
+- Full-Stack Ownership (Backend + Frontend)
+- Custom REST API (Node/Express/MongoDB)
+- Clerk Authentication
+- Server-Enforced Admin Access
+- Query Filtering, Sorting & Pagination
+- Deployed on Vercel
+- Postman-Verified Auth Boundaries
+
+🔗 **Repositories**
+
+Backend API — https://github.com/Vros15/EComerce-Backend-API
+Frontend Storefront — https://github.com/Vros15/megamart-react-storefront
+
+---
+
 ## 🤖 AI Chatbot Backend
 
 Production Express.js backend powering the AI assistant on my portfolio website.
@@ -111,45 +132,6 @@ A production-ready portfolio built to showcase software engineering projects and
 🌎 **Live Site**
 
 https://roscreations.com
-
----
-
-## 🛒 MegaMart E-Commerce Backend API
-
-RESTful backend supporting products, customers, carts, and orders.
-
-**Highlights**
-
-- MVC Architecture
-- MongoDB Relationships
-- CRUD Operations
-- JWT Authentication
-- Error Handling
-- Postman Tested
-
-🔗 **Repository**
-
-https://github.com/Vros15/EComerce-Backend-API
-
----
-
-## 🔐 Password Strength Analyzer
-
-FastAPI backend with a React frontend that analyzes password strength using entropy calculations.
-
-**Highlights**
-
-- FastAPI
-- React
-- Swagger Documentation
-- Rate Limiting
-- Input Validation
-- Password Entropy Analysis
-
-🔗 **Repository**
-
-https://github.com/Vros15/password-strength-analyzer-
-
 
 ---
 
